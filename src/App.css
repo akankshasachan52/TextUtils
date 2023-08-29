@@ -1,0 +1,7 @@
+
+  .color-circle {
+    width: 25px;
+    height: 25px;
+    border-radius: 50%; /* Makes the element a circle */
+    /*  background-color: #007bff; Change this color to your desired color */
+}  
